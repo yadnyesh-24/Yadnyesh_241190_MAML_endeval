@@ -14,7 +14,7 @@ Run the following commands to set up the project on your local machine:
 
 ```bash
 git clone https://github.com/yadnyesh-24/Yadnyesh_241190_MAML_endeval.git
-cd Yadnyesh_241190_MAML_endeval/end_term
+cd Yadnyesh_241190_MAML_endeval
 pip install -r requirements.txt
 ```
 
