@@ -11,6 +11,7 @@ Instead of training a new model from scratch every time the environment changes,
 ## Part 2 — How to set it up
 
 Make sure python 3.12.7 is already installed on your device.
+
 Run the following commands to set up the project on your local machine:
 
 ```bash
