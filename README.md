@@ -10,12 +10,10 @@ Instead of training a new model from scratch every time the environment changes,
 
 ## Part 2 — How to set it up
 
-Make sure python 3.12.7 is already installed on your device.
-
 Run the following commands to set up the project on your local machine:
 
 ```bash
-git https://github.com/yadnyesh-24/Yadnyesh_241190_MAML_endeval.git
+git clone https://github.com/yadnyesh-24/Yadnyesh_241190_MAML_endeval.git
 cd Yadnyesh_241190_MAML_endeval/end_term
 pip install -r requirements.txt
 ```
