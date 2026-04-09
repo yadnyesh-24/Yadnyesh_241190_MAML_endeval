@@ -70,7 +70,7 @@ This script:
 
 * Loads trained models
 * Evaluates on 20 unseen test tasks
-* Performs 5 gradient steps using the support set
+* Performs 20 gradient steps using the support set
 * Evaluates performance on the query set
 
 ### Output:
