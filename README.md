@@ -95,10 +95,12 @@ Lower NMSE (more negative dB) indicates better performance.
 
 * `results/plot_loss.png`
   → Shows the meta-training loss decreasing over time
+![Loss plot](results/plot_loss.png)
 
 * `results/plot_comparison.png`
   → Compares Reptile vs Baseline across 0–5 adaptation steps
   → Demonstrates faster and better convergence of meta-learning
+![Plot comparison](results/plot_comparison.png)
 ---
 
 ## Summary
